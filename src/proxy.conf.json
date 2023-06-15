@@ -1,0 +1,8 @@
+{
+  "/login/*": {
+    "target": "http://localhost:81/",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}
